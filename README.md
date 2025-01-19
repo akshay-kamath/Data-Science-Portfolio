@@ -30,9 +30,9 @@
 
 ### Orchestration frameworks ###
 
-#### Langchain ####
+### Langchain ###
 
-#### Llamaindex ####
+### Llamaindex ###
 
 ### AI Agents ###
 
