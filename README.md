@@ -24,6 +24,9 @@
 
 ### Fine Tuning LLMs ###
 
+* [Fine tuning LLMs](https://github.com/akshay-kamath/Practical-LLM-Fine-Tuning)
+
+
 ### Reterival Augmented Generation (RAG) Applications ###
 
 ### Prompt Engineering ###
