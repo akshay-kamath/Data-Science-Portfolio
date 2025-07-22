@@ -42,24 +42,7 @@
 ### AI Agents ###
 
 
-## Hyperscalers
-
-### Google Cloud ###
-
-### Amazon Web Services ###
-
-### Microsoft Azure ###
-
-
-## Model providers
-
-### Open AI ###
-
-### Nvidia ###
-
-
-
-## Machine Learning:
+## Machine Learning: ##
 ### Regression
 
 ### Classification 
