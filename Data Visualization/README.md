@@ -1,6 +1,6 @@
 # Data Visualization Portfolio
 
-This repository features a collection of data analysis and visualization projects created using Python, showcasing my proficiency in turning complex datasets into clear, compelling, and actionable insights. The projects highlight my skills in data manipulation, exploratory data analysis, and advanced data visualization techniques to tell a story with data.
+This repository showcases a collection of data analysis and visualization projects created using Python. The projects highlight skills in data manipulation, exploratory data analysis, and advanced data visualization techniques, demonstrating the ability to turn complex datasets into clear, compelling, and actionable insights.
 
 ## Project 1: Immigration to Canada Data Visualization
 
