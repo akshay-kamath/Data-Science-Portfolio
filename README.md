@@ -60,7 +60,7 @@
 
 ### Time-series Analysis
 
-### Data Visulization:
+### Data Visualization:
 * __[Immigrants to Canada data visualization](https://nbviewer.jupyter.org/github/akshay-kamath/Data-Science-Portfolio/blob/main/Data%20Visualization/Visualizing%20Global%20Migration%20to%20Canada.ipynb)__: An in-depth data visualization project exploring global migration patterns to Canada from 1980 to 2013, utilizing a diverse set of Python libraries to uncover key trends and insights.
 *  __[Geospatial visualization of San Francisco Police Department Incidents](https://nbviewer.org/github/akshay-kamath/Data-Science-Portfolio/blob/main/Data%20Visualization/Geospatial%20visualization%20of%20San%20Francisco%20incidents.ipynb)__: A geospatial analysis of San Francisco Police Department incidents from 2016. This project leverages the Folium library to create an interactive map that visualizes the density and distribution of incidents across the city.
 ---
