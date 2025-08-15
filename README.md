@@ -64,7 +64,7 @@
 ### Time-series Analysis
 
 * __[Automatic Speech Recognition](https://github.com/akshay-kamath/Data-Science-Portfolio/blob/main/Time%20Series%20Analysis/Automatic_Speech_Recognition.ipynb)__: This project demonstrates how to build and train a basic ASR model using TensorFlow, Keras and the LJSpeech dataset. The model uses a combination of Convolutional Neural Networks (CNNs) and Bidirectional Gated Recurrent Units (Bi-GRUs) to transcribe speech into text.
-* __[Time Series Analysis & Forecasting](https://github.com/akshay-kamath/Time-Series-with-Python)__: his repository showcases a comprehensive collection of projects focused on time series analysis and forecasting. It covers a wide range of techniques, from fundamental statistical methods to more advanced deep learning models, applied to real-world datasets to uncover trends, seasonality and make accurate predictions.
+* __[Time Series Analysis & Forecasting](https://github.com/akshay-kamath/Time-Series-with-Python)__: This repository showcases a comprehensive collection of projects focused on time series analysis and forecasting. It covers a wide range of techniques, from fundamental statistical methods to more advanced deep learning models, applied to real-world datasets to uncover trends, seasonality and make accurate predictions.
 
 ### Data Visualization:
 * __[Immigrants to Canada data visualization](https://nbviewer.jupyter.org/github/akshay-kamath/Data-Science-Portfolio/blob/main/Data%20Visualization/Visualizing%20Global%20Migration%20to%20Canada.ipynb)__: An in-depth data visualization project exploring global migration patterns to Canada from 1980 to 2013, utilizing a diverse set of Python libraries to uncover key trends and insights.
