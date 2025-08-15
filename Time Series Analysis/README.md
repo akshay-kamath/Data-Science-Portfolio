@@ -2,7 +2,7 @@
 
 ---
 
-# Project 1 Title
+# Project Title
 Automatic Speech Recognition with TensorFlow
 
 This project demonstrates how to build and train a basic ASR model using TensorFlow, Keras, and the LJSpeech dataset. The model uses a combination of Convolutional Neural Networks (CNNs) and Bidirectional Gated Recurrent Units (Bi-GRUs) to transcribe speech into text.
@@ -40,7 +40,7 @@ After training, the final cells will demonstrate how to use the trained model to
 ## Custom Loss Function
 The model uses a custom Connectionist Temporal Classification (CTC) loss function. CTC is essential for ASR models because it handles the misalignment between the input audio sequence and the output text sequence. It allows the model to predict the correct text even when the timing of the spoken words doesn't perfectly match the length of the audio features.
 
-
+---
 ### Time Series Analysis & Forecasting with Python
 
 This repository showcases a comprehensive collection of projects focused on time series analysis and forecasting. It covers a wide range of techniques, from fundamental statistical methods to more advanced deep learning models. The primary objective is to demonstrate the practical application of these techniques on real-world datasets to uncover trends, seasonality, and make accurate predictions.
