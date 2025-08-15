@@ -52,14 +52,16 @@
 
 ## Deep Learning 
 
-### Classification
-
 ### Natural Language Processing 
+* __[Visual Privacy Protection](https://github.com/akshay-kamath/Visual-Privacy-protection)__: An AI based application designed to protect visual privacy by anonymizing faces and obfuscating sensitive textual information (PII) in both images and videos.
+* __[Visual Privacy Protection](https://github.com/akshay-kamath/Visual-Privacy-protection)__: An AI based application designed to protect visual privacy by anonymizing faces and obfuscating sensitive textual information (PII) in both images and videos.
+* __[Visual Privacy Protection](https://github.com/akshay-kamath/Visual-Privacy-protection)__: An AI based application designed to protect visual privacy by anonymizing faces and obfuscating sensitive textual information (PII) in both images and videos.
+* __[Visual Privacy Protection](https://github.com/akshay-kamath/Visual-Privacy-protection)__: An AI based application designed to protect visual privacy by anonymizing faces and obfuscating sensitive textual information (PII) in both images and videos.
 
 ### Computer Vision 
 * __[Visual Privacy Protection](https://github.com/akshay-kamath/Visual-Privacy-protection)__: An AI based application designed to protect visual privacy by anonymizing faces and obfuscating sensitive textual information (PII) in both images and videos.
-* __[Visual Privacy Protection](https://github.com/akshay-kamath/Visual-Privacy-protection)__: An AI based application designed to protect visual privacy by anonymizing faces and obfuscating sensitive textual information (PII) in both images and videos.
-* __[Visual Privacy Protection](https://github.com/akshay-kamath/Visual-Privacy-protection)__: An AI based application designed to protect visual privacy by anonymizing faces and obfuscating sensitive textual information (PII) in both images and videos.
+* __[YOLO for Object Detection](https://github.com/akshay-kamath/Data-Science-Portfolio/blob/main/Computer%20Vision/YOLO_Object_Detection_from_Scratch.ipynb)__: Built a YOLO object detection model from scratch in TensorFlow 2.x
+
 ---
 ### Time-series Analysis
 
