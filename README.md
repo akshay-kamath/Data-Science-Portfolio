@@ -26,7 +26,7 @@
 ----
 ### Fine Tuning LLMs ###
 
-* [Practical LLM Fine tuning](https://github.com/akshay-kamath/Practical-LLM-Fine-Tuning)
+* [Practical LLM Fine tuning](https://github.com/akshay-kamath/Practical-LLM-Fine-Tuning) A handson collection of tutorials on fine tuning LLMs and other deep learning models for specific use cases. The repository explores various fine tuning techniques including Parameter Efficient Fine Tuning (PEFT), Instruction Tuning and Full Fine-Tuning using frameworks like Hugging Face Transformers to optimize model performance on custom datasets for tasks such as summarization, sentiment analysis and Named Entity Recognition (NER).
 
 ----
 ### Reterival Augmented Generation (RAG) 
@@ -56,12 +56,12 @@
 
 ### Regression
 * __[Automobile price prediction](https://github.com/akshay-kamath/Data-Science-Portfolio/blob/main/Machine%20Learning/Regression/Automobile%20Price%20Prediction%20%20.ipynb)__: Developed a complete end-to-end data science pipeline in Python to predict the prices of pre-owned automobiles using machine learning algorithms and a comprehensive set of features.
-----
+
 ### Classification 
 
 ----
 ### Unsupervised Learning 
-* __[Data-Driven Anomaly Detection for Sales](https://github.com/akshay-kamath/Anomaly_detection/tree/master)__: Developed a full-stack anomaly detection system that uses the Isolation Forest algorithm to analyze sales data and provide visualizations and insights for sales strategy optimization.
+* __[Data-Driven Anomaly Detection for Sales](https://github.com/akshay-kamath/Anomaly_detection/tree/master)__: Developed a full stack anomaly detection system that uses the Isolation Forest algorithm to analyze sales data and provide visualizations and insights for sales strategy optimization.
 
 ----
 ## Deep Learning 
