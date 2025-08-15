@@ -57,7 +57,10 @@
 ### Natural Language Processing 
 
 ### Computer Vision 
-
+* __[Visual Privacy Protection](https://github.com/akshay-kamath/Visual-Privacy-protection)__: An AI based application designed to protect visual privacy by anonymizing faces and obfuscating sensitive textual information (PII) in both images and videos.
+* __[Visual Privacy Protection](https://github.com/akshay-kamath/Visual-Privacy-protection)__: An AI based application designed to protect visual privacy by anonymizing faces and obfuscating sensitive textual information (PII) in both images and videos.
+* __[Visual Privacy Protection](https://github.com/akshay-kamath/Visual-Privacy-protection)__: An AI based application designed to protect visual privacy by anonymizing faces and obfuscating sensitive textual information (PII) in both images and videos.
+---
 ### Time-series Analysis
 
 ### Data Visualization:
