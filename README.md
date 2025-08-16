@@ -56,9 +56,6 @@
 
 ### Regression
 * __[Automobile price prediction](https://github.com/akshay-kamath/Data-Science-Portfolio/blob/main/Machine%20Learning/Regression/Automobile%20Price%20Prediction%20%20.ipynb)__: Developed a complete end-to-end data science pipeline in Python to predict the prices of pre-owned automobiles using machine learning algorithms and a comprehensive set of features.
-
-### Classification 
-
 ----
 ### Unsupervised Learning 
 * __[Data-Driven Anomaly Detection for Sales](https://github.com/akshay-kamath/Anomaly_detection/tree/master)__: Developed a full stack anomaly detection system that uses the Isolation Forest algorithm to analyze sales data and provide visualizations and insights for sales strategy optimization.
