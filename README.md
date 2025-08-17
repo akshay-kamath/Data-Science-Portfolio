@@ -55,6 +55,7 @@
 ### Langchain ###
 * __[Resume Screening Assistant](https://github.com/akshay-kamath/personal-projects/tree/main/Resume%20Screening%20Assistant)__: A Streamlit based application designed to streamline the resume screening process for HR professionals. This tool allows users to upload resumes, compare them against a job description and retrieve the most relevant documents based on a similarity search using Pinecone's vector database.
 
+* __[Conversational Document Q&A with Vertex AI Search and LangChain](https://github.com/akshay-kamath/Data-Science-Portfolio/tree/main/Financial%20Analysis/Conversational%20RAG%20with%20VertexAI%20Search%20and%20Langchain)__: Built a conversational RAG pipeline using Vertex AI Search and LangChain to query private documents and receive source-cited answers using Gemini
 
 ----
 ### MLOps ###
