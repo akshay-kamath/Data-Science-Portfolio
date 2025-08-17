@@ -65,10 +65,12 @@
 
 ### Natural Language Processing:
 
-* __[Visual Privacy Protection](https://github.com/akshay-kamath/Visual-Privacy-protection)__: An AI based application designed to protect visual privacy by anonymizing faces and obfuscating sensitive textual information (PII) in both images and videos.
-* __[Visual Privacy Protection](https://github.com/akshay-kamath/Visual-Privacy-protection)__: An AI based application designed to protect visual privacy by anonymizing faces and obfuscating sensitive textual information (PII) in both images and videos.
-* __[Visual Privacy Protection](https://github.com/akshay-kamath/Visual-Privacy-protection)__: An AI based application designed to protect visual privacy by anonymizing faces and obfuscating sensitive textual information (PII) in both images and videos.
-* __[Visual Privacy Protection](https://github.com/akshay-kamath/Visual-Privacy-protection)__: An AI based application designed to protect visual privacy by anonymizing faces and obfuscating sensitive textual information (PII) in both images and videos.
+* __[Sequential Sentence Classification](https://github.com/akshay-kamath/Sequential-sentence-classification)__: Developed a deep learning model for sequential sentence classification to automatically convert "hard-to-read" text into simplified, easier-to-read text.
+* __[Sentiment Analysis with BERT](https://github.com/akshay-kamath/Data-Science-Portfolio/blob/main/Natural%20Language%20Processing/sentiment_analysis_with_bert.py)__: End-to-end sentiment analysis on the IMDb dataset using BERT-based models, covering preprocessing, training, evaluation and optimized deployment with ONNX.
+* __[Intent Classification for Customer Service](https://github.com/akshay-kamath/Data-Science-Portfolio/blob/main/Natural%20Language%20Processing/intent_classification_for_customer_service.py)__: Built an intent classifier for customer support chatbots using DeBERTa, trained on real-world conversational datasets.
+* __[Named Entity Recognition](https://github.com/akshay-kamath/Data-Science-Portfolio/blob/main/Natural%20Language%20Processing/Named_entity_recognition_using_huggingface_transformers.py)__: Fine-tuned a RoBERTa model on the CoNLL-2003 dataset to identify entities like people, organizations, and locations in text.
+* __[Neural Machine Translation (English → French)](https://github.com/akshay-kamath/Data-Science-Portfolio/blob/main/Natural%20Language%20Processing/Neural_machine_translation.py)__: Fine-tuned a T5-small model to translate English sentences into French, evaluated with BLEU scores.
+* __[Extractive Question Answering](https://github.com/akshay-kamath/Data-Science-Portfolio/blob/main/Natural%20Language%20Processing/Extractive_question_answering.py)__: Implemented a Longformer-based QA system that extracts precise answers from long documents using datasets like covid_qa_deepset.
 ----
 ### Computer Vision: 
 
