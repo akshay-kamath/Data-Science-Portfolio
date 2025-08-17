@@ -31,14 +31,15 @@
 ### AI Agents ###
 
 
-
 * [Multi Agent Market Analyzer](https://github.com/akshay-kamath/Awesome-AI-Agents/blob/main/Autogen/Financial_AI_Agents_using_Autogen.ipynb) Built a financial analysis tool using Microsoft's AutoGen where multiple AI agents work together.It automatically pulls real world stock data applies a momentum trading strategy and generates visualization and CSV reports.
 
 * [Fundamental stock analysis](https://github.com/akshay-kamath/Awesome-AI-Agents/blob/main/llamaindex/Fundamental_analysis_multi_agent_using_llamaindex.ipynb) Developed a multi-agent workflow using LlamaIndex to automate fundamental stock analysis by assessing profitability, liquidity and overall financial health.
 
 
 ### MCP ###
-
+* [ADK & MCP Tool Integration](https://github.com/akshay-kamath/Awesome-AI-Agents/tree/main/MCP/ADK): Developed a client server integration using Python, Google's ADK and the Model Context Protocol  to connect AI agents with external tools and expose native agent capabilities.
+* [Chat-MCP-Claude](https://github.com/akshay-kamath/Awesome-AI-Agents/tree/main/MCP/Claude): Built a command line chat tool that connects to Vertex AI, allowing users to ask questions about their
+  documents and run custom commands.
 
 ----
 ### Fine Tuning LLMs ###
