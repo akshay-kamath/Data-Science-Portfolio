@@ -1,10 +1,10 @@
-# MLOps Pipeline for Tabular Regression with Vertex AI
+# MLOps Pipeline for Bike Demand Forecasting with Vertex AI
 
-This project implements an MLOps pipeline for a tabular regression task using Vertex AI Pipelines. The pipeline automates the process of training, evaluating and deploying a machine learning model to predict bike sharing demand.
+This project implements an MLOps pipeline for a Bike Demand Forecasting using Vertex AI Pipelines. The pipeline automates the process of training, evaluating and deploying a machine learning model to predict bike sharing demand.
 
 ## Project Structure
 
-- `challenge-notebook.ipynb`: A Jupyter notebook that contains the initial data exploration, model training, and deployment steps. This notebook is used to develop the components of the pipeline.
+- `notebook.ipynb`: A Jupyter notebook that contains the initial data exploration, model training, and deployment steps. This notebook is used to develop the components of the pipeline.
 - `build_pipeline.py`: This script defines the MLOps pipeline using the Kubeflow Pipelines (KFP) SDK. It connects the different components of the pipeline in a directed acyclic graph (DAG).
 - `run_pipeline.py`: This script submits the compiled pipeline to Vertex AI for execution.
 - `config.json`: A configuration file that contains the parameters for the pipeline such as project ID, region, bucket URI and model hyperparameters.
