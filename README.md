@@ -12,9 +12,8 @@
 * **Details**: [Landing page](https://akshay-kamath.github.io/5-Day-Gen-AI-Intensive-Course-with-Google-and-Kaggle/#home)
 
 
-### [Proj2](https://github.com/akshay-kamath/Data-Science-Portfolio)
-* Description1
-* Description2
+### [Conversational AI with Dynamic Web Search](https://github.com/akshay-kamath/Data-Science-and-Generative-AI-End-to-End-Projects/tree/main/Agentic-Chatbot-With-Web-Search)
+* This project demonstrates a sophisticated end toend conversational AI system capable of answering questions by dynamically searching the web for up to date information. It functions as an Agentic RAG system, where an AI agent autonomously decides when it needs to use external tools in this case a web search to find information it doesn't already know. The application is built using a powerful combination of LangGraph for agentic workflow orchestration and Streamlit for a clean, interactive user interface, showcasing a full-stack approach to building modern, stateful AI applications.
 
 ### [Proj3](https://github.com/akshay-kamath/Data-Science-Portfolio)
 * Description1
