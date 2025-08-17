@@ -38,8 +38,7 @@
 
 ### MCP ###
 * [ADK & MCP Tool Integration](https://github.com/akshay-kamath/Awesome-AI-Agents/tree/main/MCP/ADK): Developed a client server integration using Python, Google's ADK and the Model Context Protocol  to connect AI agents with external tools and expose native agent capabilities.
-* [Chat-MCP-Claude](https://github.com/akshay-kamath/Awesome-AI-Agents/tree/main/MCP/Claude): Built a command line chat tool that connects to Vertex AI, allowing users to ask questions about their
-  documents and run custom commands.
+* [Chat-MCP-Claude](https://github.com/akshay-kamath/Awesome-AI-Agents/tree/main/MCP/Claude): A command line interface application that enables interactive chat capabilities with AI models through the Vertex AI. The application supports document retrieval, command based prompts and extensible tool integrations via the MCP architecture.
 
 ----
 ### Fine Tuning LLMs ###
