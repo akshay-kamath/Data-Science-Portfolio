@@ -46,7 +46,9 @@
 * [Practical LLM Fine tuning](https://github.com/akshay-kamath/Practical-LLM-Fine-Tuning) A handson collection of tutorials on fine tuning LLMs and other deep learning models for specific use cases. The repository explores various fine tuning techniques including Parameter Efficient Fine Tuning (PEFT), Instruction Tuning and Full Fine-Tuning using frameworks like Hugging Face Transformers to optimize model performance on custom datasets for tasks such as summarization, sentiment analysis and Named Entity Recognition (NER).
 
 ----
-### Reterival Augmented Generation (RAG) 
+### Retreival Augmented Generation and Grounding
+
+* __[SEC Filing Analysis](https://github.com/akshay-kamath/Data-Science-Portfolio/blob/main/Financial%20Analysis/SEC%20Filing%20Analysis/Sec_filings_analysis_notebook.ipynb)__: Developed a Python-based research agent using Vertex AI Gemini, leveraging function calling and Google Search grounding to automate the analysis of SEC filings and reports for financial research
 
 
 ----
