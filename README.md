@@ -30,6 +30,12 @@
 ## Generative AI ##
 ### AI Agents ###
 
+* [Fundamental stock analysis](https://github.com/akshay-kamath/Awesome-AI-Agents/blob/main/llamaindex/Fundamental_analysis_multi_agent_using_llamaindex.ipynb) Developed a multi-agent workflow using LlamaIndex to automate fundamental stock analysis by assessing profitability, liquidity and overall financial health.
+
+
+### MCP ###
+
+
 ----
 ### Fine Tuning LLMs ###
 
