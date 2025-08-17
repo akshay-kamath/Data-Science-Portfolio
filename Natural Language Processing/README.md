@@ -15,6 +15,9 @@ Built a Deep learning Model for Sequential Sentence Classification, for Converti
 
 This Python script demonstrates how to perform sentiment analysis on the IMDb dataset using BERT-based models from the Hugging Face Transformers library. It covers the entire workflow from data preparation to model training, evaluation, and deployment optimization.
 
+- **Code:** [Sentiment Analysis with BERT and Hugging Face Transformers](https://github.com/akshay-kamath/Data-Science-Portfolio/blob/main/Natural%20Language%20Processing/sentiment_analysis_with_bert.py)
+
+
 ### Features
 
 - **Dataset**: Utilizes the IMDb dataset for sentiment analysis.
@@ -100,6 +103,9 @@ The script is divided into the following sections:
 
 This Python script provides a step-by-step guide to building an intent classification model for a customer service chatbot. It utilizes a powerful pre-trained model from the Hugging Face Transformers library and a real-world customer service dataset.
 
+- **Code:** [Intent Classification for Customer Service](https://github.com/akshay-kamath/Data-Science-Portfolio/blob/main/Natural%20Language%20Processing/intent_classification_for_customer_service.py)
+
+
 ### Features
 
 - **Dataset**: Uses the "Training Dataset for Chatbots/Virtual Assistants" from Kaggle which contains 20,000 user utterances categorized by intent.
@@ -157,6 +163,9 @@ pip install transformers datasets tensorflow kaggle
 ## Named Entity Recognition (NER) using Hugging Face Transformers
 
 This script provides a comprehensive walkthrough for building and training a Named Entity Recognition (NER) model. It uses the popular CoNLL-2003 dataset and fine-tunes a pre-trained RoBERTa model from the Hugging Face Transformers library using TensorFlow.
+
+- **Code:** [Named Entity Recognition](https://github.com/akshay-kamath/Data-Science-Portfolio/blob/main/Natural%20Language%20Processing/Named_entity_recognition_using_huggingface_transformers.py)
+
 
 ### Features
 
@@ -220,6 +229,9 @@ pip install transformers datasets evaluate seqeval
 
 This script demonstrates how to build and train a Neural Machine Translation (NMT) model using the Hugging Face Transformers library with TensorFlow. The project focuses on translating English sentences to French using a pre-trained T5-small model and fine-tuning it on a French-English parallel corpus.
 
+- **Code:** [Neural_machine_translation](https://github.com/akshay-kamath/Data-Science-Portfolio/blob/main/Natural%20Language%20Processing/Neural_machine_translation.py)
+
+
 ### Features
 
 - **Data Preparation:** Downloads and preprocesses the French-English dataset from ManyThings.org.
@@ -262,6 +274,9 @@ The model's translation quality is evaluated using the **SacreBLEU** metric, a w
 ## Extractive Question Answering using HuggingFace Transformers
 
 This script demonstrates how to implement Extractive Question Answering (QA) using the Hugging Face Transformers library with TensorFlow. The project utilizes a pre trained Longformer model to extract answers from given contexts based on user queries.
+
+- **Code:** [Extractive Question Answering](https://github.com/akshay-kamath/Data-Science-Portfolio/blob/main/Natural%20Language%20Processing/Extractive_question_answering.py)
+
 
 ### Features
 
