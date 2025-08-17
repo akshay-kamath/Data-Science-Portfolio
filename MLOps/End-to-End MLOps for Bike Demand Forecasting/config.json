@@ -1,0 +1,18 @@
+{
+    "project":"qwiklabs-gcp-01-5e1beaa9daf0",
+    "region":"us-central1",
+    "service_account":"698960225595-compute@developer.gserviceaccount.com",
+    "staging_bucket_uri":"gs://qwiklabs-gcp-01-5e1beaa9daf0-bucket",
+    "pipeline_name":"tabular-data-regression-kfp-cicd-pipeline",
+    "pipeline_package_path":"tabular-data-regression-kfp-cicd-pipeline.json",
+    "input_data_path":"gs://qwiklabs-gcp-01-5e1beaa9daf0-bucket",
+    "input_data_filename":"hour.csv",
+    "target_column_name":"cnt",
+    "train_size":0.8,
+    "test_size":0.1,
+    "valid_size":0.1,
+    "deployment_metric":"r2",
+    "deployment_metric_threshold":0.8,
+    "model_name":"model_tabular_regression",
+    "serving_container_uri":"us-docker.pkg.dev/vertex-ai/prediction/sklearn-cpu.1-3:latest"
+}
