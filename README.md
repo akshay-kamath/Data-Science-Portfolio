@@ -6,7 +6,7 @@
 ## End to End Projects ##
 
 ### [ChetnaShakti: AI Powered Coach](https://aipoweredcoach.streamlit.app/)
-* ChetnaShakti[Chetna (awareness) and Shakti (power)] is a personalized AI wellness agent designed to bridge the gap between cognitive therapy, behavior design and spiritual wisdom.
+* ChetnaShakti[the power of consciousness] is a personalized AI wellness agent designed to bridge the gap between cognitive therapy, behavior design and spiritual wisdom.
 * It uses multi-agent AI for CBT, habit rewiring and spiritual support. Key features include RAG based retrieval, multimodal input (image/video), contextual grounding via journals and spiritual texts and feedback driven improvement. Built with LangChain, LangGraph, Gemini and Streamlit. Includes real time search and agent orchestration.
 * **Medium Blog**: [GenAI with a Soul: Architecting Conscious Agents with Intent](https://medium.com/@akshaykamath2023/genai-with-a-soul-architecting-conscious-agents-with-intent-5887e49b610e)
 * **Details**: [Landing page](https://akshay-kamath.github.io/5-Day-Gen-AI-Intensive-Course-with-Google-and-Kaggle/#home)
