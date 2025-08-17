@@ -20,6 +20,12 @@
 * Description1
 * Description2
 
+### [Visual Privacy Protection](https://github.com/akshay-kamath/Visual-Privacy-protection) 
+* An AI based application designed to protect visual privacy by anonymizing faces and obfuscating sensitive textual information (PII) in both images and videos.
+
+### [Sequential Sentence Classification](https://github.com/akshay-kamath/Sequential-sentence-classification)
+* Developed a deep learning model for sequential sentence classification to automatically convert "hard-to-read" text into simplified, easier-to-read text.
+
 ----
 # Skill Based Projects #
 
@@ -61,7 +67,7 @@
 * __[Automobile price prediction](https://github.com/akshay-kamath/Data-Science-Portfolio/blob/main/Machine%20Learning/Regression/Automobile%20Price%20Prediction%20%20.ipynb)__: Developed a complete end-to-end data science pipeline in Python to predict the prices of pre-owned automobiles using machine learning algorithms and a comprehensive set of features.
 ----
 ### Unsupervised Learning 
-* __[Data-Driven Anomaly Detection for Sales](https://github.com/akshay-kamath/Anomaly_detection/tree/master)__: Developed a full stack anomaly detection system that uses the Isolation Forest algorithm to analyze sales data and provide visualizations and insights for sales strategy optimization.
+* __[Data-Driven Anomaly Detection for Sales](https://github.com/akshay-kamath/Anomaly_detection/tree/master)__: Developed a full stack anomaly detection application that uses the Isolation Forest algorithm to analyze sales data and provide visualizations and insights for sales strategy optimization.
 
 ----
 ## Deep Learning 
