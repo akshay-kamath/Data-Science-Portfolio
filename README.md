@@ -13,7 +13,7 @@
 
 ### [Conversational AI with Dynamic Web Search](https://github.com/akshay-kamath/Data-Science-and-Generative-AI-End-to-End-Projects/tree/main/Agentic-Chatbot-With-Web-Search)
 * An autonomous, stateful AI chatbot that intelligently reasons and uses real time web search to provide accurate answers. It functions as an Agentic RAG system, where an AI agent autonomously decides when it needs to use external tools in this case a web search to find information it doesn't already know. The application is built using a powerful combination of LangGraph for agentic workflow orchestration and Streamlit for a clean interactive user interface
-* 
+
 ### [Autonomous AI Blog Writer](https://github.com/akshay-kamath/Data-Science-and-Generative-AI-End-to-End-Projects/tree/main/End-to-End-Blog-generation-Agentic-AI-app)
 * Built a blog-writing system powered by autonomous AI agents that collaborate—from content planning to drafting and editing—to generate polished blog posts with minimal human input. This app showcases agentic AI in practice a collection of specialized agents reason, coordinate and act to take you from topic idea to publish ready content in one automated pipeline.
 * Tech Stack: FastAPI, Uvicorn, LangChain, LangGraph, OpenAI, Groq, Tavily, Pip, Poetry.
@@ -54,8 +54,8 @@
 
 ----
 ### MLOps ###
-
-
+* __[Image_Classification_Pipeline_Using_Vertex AI](https://github.com/akshay-kamath/Data-Science-Portfolio/tree/main/MLOps/Image_Classification_Pipeline_Using_Vertex%20AI)__: Orchestrated a serverless MLOps pipeline on Google Cloud's Vertex AI using the KFP SDK, Docker and Cloud Build to automate the training and deployment of a custom image classification model.
+* __[End-to-End MLOps for Bike Demand Forecasting](https://github.com/akshay-kamath/Data-Science-Portfolio/tree/main/MLOps/End-to-End%20MLOps%20for%20Bike%20Demand%20Forecasting)__: Developed a complete MLOps pipeline for a bike sharing demand forecasting model using Vertex AI, KFP and Scikit-learn, featuring automated data processing, model training, evaluation and conditional deployment to an endpoint.
 ----
 ## Machine Learning: ##
 
