@@ -45,6 +45,7 @@
 
 ----
 ### Langchain ###
+* __[Resume Screening Assistant](https://github.com/akshay-kamath/personal-projects/tree/main/Resume%20Screening%20Assistant)__: A Streamlit based application designed to streamline the resume screening process for HR professionals. This tool allows users to upload resumes, compare them against a job description and retrieve the most relevant documents based on a similarity search using Pinecone's vector database.
 
 ----
 ### Llamaindex ###
