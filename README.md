@@ -30,6 +30,10 @@
 ## Generative AI ##
 ### AI Agents ###
 
+
+
+* [Multi Agent Market Analyzer](https://github.com/akshay-kamath/Awesome-AI-Agents/blob/main/Autogen/Financial_AI_Agents_using_Autogen.ipynb) Built a financial analysis tool using Microsoft's AutoGen where multiple AI agents work together.It automatically pulls real world stock data applies a momentum trading strategy and generates visualization and CSV reports.
+
 * [Fundamental stock analysis](https://github.com/akshay-kamath/Awesome-AI-Agents/blob/main/llamaindex/Fundamental_analysis_multi_agent_using_llamaindex.ipynb) Developed a multi-agent workflow using LlamaIndex to automate fundamental stock analysis by assessing profitability, liquidity and overall financial health.
 
 
@@ -45,19 +49,10 @@
 ### Reterival Augmented Generation (RAG) 
 
 
-
-----
-### Orchestration frameworks ###
-
 ----
 ### Langchain ###
 * __[Resume Screening Assistant](https://github.com/akshay-kamath/personal-projects/tree/main/Resume%20Screening%20Assistant)__: A Streamlit based application designed to streamline the resume screening process for HR professionals. This tool allows users to upload resumes, compare them against a job description and retrieve the most relevant documents based on a similarity search using Pinecone's vector database.
 
-----
-### Llamaindex ###
-
-----
-### Responsible AI ###
 
 ----
 ### MLOps ###
@@ -69,7 +64,7 @@
 ### Supervised Learning
 
 ### Regression
-* __[Automobile price prediction](https://github.com/akshay-kamath/Data-Science-Portfolio/blob/main/Machine%20Learning/Regression/Automobile%20Price%20Prediction%20%20.ipynb)__: Developed a complete end-to-end data science pipeline in Python to predict the prices of pre-owned automobiles using machine learning algorithms and a comprehensive set of features.
+* __[Automobile price prediction](https://github.com/akshay-kamath/Data-Science-Portfolio/blob/main/Machine%20Learning/Regression/Automobile%20Price%20Prediction%20%20.ipynb)__: Developed a complete end-to-end data science pipeline in Python to predict the prices of pre owned automobiles using machine learning algorithms and a comprehensive set of features.
 ----
 ### Unsupervised Learning 
 * __[Data-Driven Anomaly Detection for Sales](https://github.com/akshay-kamath/Anomaly_detection/tree/master)__: Developed a full stack anomaly detection application that uses the Isolation Forest algorithm to analyze sales data and provide visualizations and insights for sales strategy optimization.
