@@ -11,13 +11,12 @@
 * **Medium Blog**: [GenAI with a Soul: Architecting Conscious Agents with Intent](https://medium.com/@akshaykamath2023/genai-with-a-soul-architecting-conscious-agents-with-intent-5887e49b610e)
 * **Details**: [Landing page](https://akshay-kamath.github.io/5-Day-Gen-AI-Intensive-Course-with-Google-and-Kaggle/#home)
 
-
 ### [Conversational AI with Dynamic Web Search](https://github.com/akshay-kamath/Data-Science-and-Generative-AI-End-to-End-Projects/tree/main/Agentic-Chatbot-With-Web-Search)
 * This project demonstrates a sophisticated end toend conversational AI system capable of answering questions by dynamically searching the web for up to date information. It functions as an Agentic RAG system, where an AI agent autonomously decides when it needs to use external tools in this case a web search to find information it doesn't already know. The application is built using a powerful combination of LangGraph for agentic workflow orchestration and Streamlit for a clean, interactive user interface, showcasing a full-stack approach to building modern, stateful AI applications.
 
-### [Proj3](https://github.com/akshay-kamath/Data-Science-Portfolio)
-* Description1
-* Description2
+### [Autonomous AI Blog Writer](https://github.com/akshay-kamath/Data-Science-and-Generative-AI-End-to-End-Projects/tree/main/End-to-End-Blog-generation-Agentic-AI-app)
+* Built a blog-writing system powered by autonomous AI agents that collaborate—from content planning to drafting and editing—to generate polished blog posts with minimal human input. This app showcases agentic AI in practice a collection of specialized agents reason, coordinate and act to take you from topic idea to publish ready content in one automated pipeline.
+* Tech Stack: FastAPI, Uvicorn, LangChain, LangGraph, OpenAI, Groq, Tavily, Pip, Poetry.
 
 ### [Visual Privacy Protection](https://github.com/akshay-kamath/Visual-Privacy-protection) 
 * An AI based application designed to protect visual privacy by anonymizing faces and obfuscating sensitive textual information (PII) in both images and videos.
